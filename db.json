@@ -18,7 +18,7 @@
     "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Tais Rocha",
-    "price": 17.57,
+    "price": 17.57
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "removal": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Alex Rocha",
-    "price": 7.54,
+    "price": 7.54
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
     "destination": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
     "driver": "José Motta",
-    "price": 25.57,
+    "price": 25.57
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "removal": "Rua Duarte Guimarães - Vila Carol",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Rafael Lousada",
-    "price": 15.22,
+    "price": 15.22
   }
   ]
 }
