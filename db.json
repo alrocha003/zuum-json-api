@@ -14,7 +14,7 @@
   {
     "id": 1,
     "userId": 1,
-    "description": "Envio de documentos"
+    "description": "Envio de documentos",
     "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Tais Rocha",
@@ -23,7 +23,7 @@
   {
     "id": 2,
         "userId": 2,
-    "description": "Envio de medicamento controlado"
+    "description": "Envio de medicamento controlado",
     "removal": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Alex Rocha",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "userId": 1,
-    "description": "Envio de Playstation 4"
+    "description": "Envio de Playstation 4",
     "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
     "destination": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
     "driver": "José Motta",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "userId": 2,
-    "description": "Malote direto"
+    "description": "Malote direto",
     "removal": "Rua Duarte Guimarães - Vila Carol",
     "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Rafael Lousada",
