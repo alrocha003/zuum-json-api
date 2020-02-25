@@ -1,0 +1,51 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "Alex Rocha",
+      "email": "alrocha003@gmail.com",
+      "location": "Sorocaba, São Paulo, BRA",
+      "language": "Portugues e inglês",
+      "profession": "Analista de Sistemas",
+      "since": "29/11/2019"
+      }
+  ],
+  "races": [
+  {
+    "id": 1,
+    "userId": 1,
+    "description": "Envio de documentos"
+    "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
+    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "driver": "Tais Rocha",
+    "price": 17.57,
+  },
+  {
+    "id": 2,
+        "userId": 2,
+    "description": "Envio de medicamento controlado"
+    "removal": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
+    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "driver": "Alex Rocha",
+    "price": 7.54,
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "description": "Envio de Playstation 4"
+    "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
+    "destination": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
+    "driver": "José Motta",
+    "price": 25.57,
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "description": "Malote direto"
+    "removal": "Rua Duarte Guimarães - Vila Carol",
+    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "driver": "Rafael Lousada",
+    "price": 15.22,
+  }
+  ]
+}
