@@ -15,39 +15,102 @@
   "races": [
   {
     "id": 1,
-    "userId": 1,
-    "description": "Envio de documentos",
-    "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
-    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "IdCliente": 1,
+    "Descricao": "Envio de documentos",
+    "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
+    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Tais Rocha",
-    "price": 17.57
+    "Observacao": "Nova observação :D",
+    "StatusCorrida": "Concluida",
+    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
+    "DtFinalCorrida": "",
+    "IdMotorista": 1,
+    "ValorCorrida": 17.57
   },
   {
     "id": 2,
-        "userId": 2,
-    "description": "Envio de medicamento controlado",
-    "removal": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
-    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "IdCliente": 2,
+    "Descricao": "Envio de medicamento controlado",
+    "LocalOrigem": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
+    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
     "driver": "Alex Rocha",
-    "price": 7.54
+    "Observacao": "Nova observação :D",
+    "StatusCorrida": "Concluida",
+    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
+    "DtFinalCorrida": "",
+    "IdMotorista": 3,
+    "ValorCorrida": 7.54
   },
   {
     "id": 3,
-    "userId": 1,
-    "description": "Envio de Playstation 4",
-    "removal": "Rua José Lungwitz, 26 - Jardim Ipanema",
-    "destination": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
+    "IdCliente": 1,
+    "Descricao": "Envio de Playstation 4",
+    "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
+    "LocalDestino": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
     "driver": "José Motta",
-    "price": 25.57
+    "Observacao": "Nova observação :D",
+    "StatusCorrida": "Concluida",
+    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
+    "DtFinalCorrida": "",
+    "IdMotorista": 2
+    "ValorCorrida": 25.57
   },
   {
     "id": 4,
-    "userId": 2,
-    "description": "Malote direto",
-    "removal": "Rua Duarte Guimarães - Vila Carol",
-    "destination": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
-    "driver": "Rafael Lousada",
-    "price": 15.22
+    "IdCliente": 2,
+    "Descricao": "Malote direto",
+    "LocalOrigem": "Rua Duarte Guimarães - Vila Carol",
+    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+    "driver": "Rafael Lousada",    
+    "Observacao": "Nova observação :D",
+    "StatusCorrida": "Concluida",
+    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
+    "DtFinalCorrida": "",
+    "IdMotorista": 2,
+    "ValorCorrida": 15.22
   }
+  ],
+  "Motorista": [
+  	{
+      "Nome": "Joselito",
+      "Email": "Joselito@Jose.com.br",
+      "IdProfile" : 2, 
+      "Cidade": "Sorocaba",
+      "Senha": "123",
+      "Endereco": "Antonio Jose Castronovo",
+      "NumeroResidencia": "123-abc",
+      "Bairro": "Santa Rosalia",
+      "Telefone": "3232-5889",
+      "Cep": "18095-070",
+      "DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-",
+      "Cnh" : 666555444,
+      "Veiculos": [
+        {
+          "Placa": "placa-3322",
+          "Modelo": "modelo-3322",
+          "Cor": "Vermelho",
+          "Ano": 1996,
+          "Renavan": "Renavan-112233",
+          "IdUsuario": 2,
+          "CargaMaximaKg": 19
+		    }
+	    ]
+    }
+  ],
+  "Clientes":[
+    {
+    "Nome": "Joselito",
+		"Email": "Joselito@Jose.com.br",
+		"IdProfile" : 1,
+		"Cidade": "Sorocaba",
+		"Senha": "123",
+		"Endereco": "Antonio Jose Castronovo",
+		"NumeroResidencia": "123-abc",
+		"Bairro": "Santa Rosalia",
+		"Telefone": "3232-5889",
+		"Cep": "18095-070",
+		"DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-"
+    }
   ]
+  
 }
