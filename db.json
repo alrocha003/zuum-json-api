@@ -9,7 +9,8 @@
       "language": "Portugues e inglês",
       "profession": "Analista de Sistemas",
       "since": "29/11/2019",
-      "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7"
+      "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7",
+      "type": 1
       }
   ],
   "races": [
@@ -84,6 +85,7 @@
       "Cep": "18095-070",
       "DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-",
       "Cnh" : 666555444,
+      "type": 2,
       "Veiculos": [
         {
           "Placa": "placa-3322",
@@ -110,6 +112,7 @@
 		"Telefone": "3232-5889",
 		"Cep": "18095-070",
 		"DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-"
+,      "type": 2
     }
   ]
   
