@@ -11,6 +11,18 @@
       "since": "29/11/2019",
       "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7",
       "type": 1
+      },
+	      {
+      "id": 2,
+      "name": "José Motta",
+      "email": "josemotta@gmail.com",
+      "password": "zuumm1234",
+      "location": "Sorocaba, São Paulo, BRA",
+      "language": "Portugues e inglês",
+      "profession": "Analista de Sistemas",
+      "since": "29/11/2019",
+      "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7",
+      "type": 2
       }
   ],
   "races": [
