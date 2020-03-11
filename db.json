@@ -126,6 +126,97 @@
 		"DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-"
 ,      "type": 2
     }
-  ]
+  ],
+"Clients":[
+	       {
+            "Id": 49.0,
+            "Cpf": "28264745881",
+            "Name": "PESSOAFISICA49",
+            "Email": "EMAIL@49.COM.BR",
+            "ZipCode": "09195370",
+            "City": "Santo André",
+            "State": "DF",
+            "ResidentialPhone": "11 123456789  123456789",
+            "CommercialPhone": " 123456789  123456789",
+            "CellPhone": " 123456789  123456789",
+            "ReceiveInformationWebmotors": "N",
+            "Status": "P",
+            "InsertDate": "1999-06-23T00:00:00",
+            "UpdateDate": "2013-08-25T07:48:29.027",
+            "BornDate": "1978-09-20T00:00:00",
+            "Sex": "F",
+            "Education": "",
+	    "Profession": 0,
+            "Salary": 0,
+	    "MaritalStatus":""
+	       },
+		       {
+            "Id": 49.0,
+            "Cpf": "28264745881",
+            "Name": "Jeremias traficante de renome",
+            "Email": "EMAIL@49.COM.BR",
+            "ZipCode": "09195370",
+            "City": "Brasilia",
+            "State": "DF",
+            "ResidentialPhone": "11 123456789  123456789",
+            "CommercialPhone": " 123456789  123456789",
+            "CellPhone": " 123456789  123456789",
+            "ReceiveInformationWebmotors": "N",
+            "Status": "P",
+            "InsertDate": "1999-06-23T00:00:00",
+            "UpdateDate": "2013-08-25T07:48:29.027",
+            "BornDate": "1978-09-20T00:00:00",
+            "Sex": "F",
+            "Education": "",
+	    "Profession": 0,
+            "Salary": 0,
+	    "MaritalStatus":""
+	       },
+		       {
+            "Id": 49.0,
+            "Cpf": "28264745881",
+            "Name": "João do Santo Cristo",
+            "Email": "joao@49.COM.BR",
+            "ZipCode": "09195370",
+            "City": "Planaltina",
+            "State": "DF",
+            "ResidentialPhone": "11 123456789  123456789",
+            "CommercialPhone": " 123456789  123456789",
+            "CellPhone": " 123456789  123456789",
+            "ReceiveInformationWebmotors": "N",
+            "Status": "P",
+            "InsertDate": "1999-06-23T00:00:00",
+            "UpdateDate": "2013-08-25T07:48:29.027",
+            "BornDate": "1978-09-20T00:00:00",
+            "Sex": "F",
+            "Education": "",
+	    "Profession": 0,
+            "Salary": 0,
+	    "MaritalStatus":""
+	       },
+	
+		       {
+            "Id": 49.0,
+            "Cpf": "28264745881",
+            "Name": "Maria Lucia",
+            "Email": "marialucia@49.COM.BR",
+            "ZipCode": "09195370",
+            "City": "Brasilia",
+            "State": "DF",
+            "ResidentialPhone": "11 123456789  123456789",
+            "CommercialPhone": " 123456789  123456789",
+            "CellPhone": " 123456789  123456789",
+            "ReceiveInformationWebmotors": "N",
+            "Status": "P",
+            "InsertDate": "1999-06-23T00:00:00",
+            "UpdateDate": "2013-08-25T07:48:29.027",
+            "BornDate": "1978-09-20T00:00:00",
+            "Sex": "F",
+            "Education": "",
+	    "Profession": 0,
+            "Salary": 0,
+	    "MaritalStatus":""
+	       }
+]
   
 }
