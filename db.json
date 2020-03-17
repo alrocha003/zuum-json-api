@@ -266,18 +266,6 @@
     		"UF": "SP",
     		"Suspects": 0,
     		"Payday": "2013-08-25T07:48:29.027"
-    		},
-    		{
-    		"InsertDate": "2012-06-23T00:00:00",
-    		"Email": "benjorge@gmail.com",
-    		"Car": "Corsa",
-    		"ModelYear": 2008,
-    		"Km": 135490,
-    		"Price": 19000.00,
-    		"Modalidade": "Premium - Carro",
-    		"UF": "RJ",
-    		"Suspects": 2,
-    		"Payday": "2013-08-25T07:48:29.027"
     		}
 	]
 }
