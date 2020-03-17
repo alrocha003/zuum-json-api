@@ -267,7 +267,7 @@
     		"Suspects": 0,
     		"Payday": "2013-08-25T07:48:29.027"
     		},
-    		    		{
+    		{
     		"InsertDate": "2012-06-23T00:00:00",
     		"Email": "benjorge@gmail.com",
     		"Car": "Corsa",
@@ -277,18 +277,6 @@
     		"Modalidade": "Premium - Carro",
     		"UF": "RJ",
     		"Suspects": 2,
-    		"Payday": "2013-08-25T07:48:29.027"
-    		},
-    		{
-    		"InsertDate": "2014-06-23T00:00:00",
-    		"Email": "ruso.renato@gmail.com",
-    		"Car": "Veraneio",
-    		"ModelYear": 1973,
-    		"Km": 235490,
-    		"Price": 19000.00,
-    		"Modalidade": "Vascaina",
-    		"UF": "DF",
-    		"Suspects": 4,
     		"Payday": "2013-08-25T07:48:29.027"
     		}
 	]
