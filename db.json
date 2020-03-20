@@ -11,8 +11,8 @@
       "since": "29/11/2019",
       "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7",
       "type": 1
-      },
-	      {
+    },
+    {
       "id": 2,
       "name": "José Motta",
       "email": "josemotta@gmail.com",
@@ -23,71 +23,71 @@
       "since": "29/11/2019",
       "img_url": "https://photos.app.goo.gl/aJpPTi4g4ZtVEjtC7",
       "type": 2
-      }
+    }
   ],
   "races": [
-  {
-    "id": 1,
-    "IdCliente": 1,
-    "Descricao": "Envio de documentos",
-    "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
-    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
-    "driver": "Tais Rocha",
-    "Observacao": "Nova observação :D",
-    "StatusCorrida": "Concluida",
-    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
-    "DtFinalCorrida": "",
-    "IdMotorista": 1,
-    "ValorCorrida": 17.57
-  },
-  {
-    "id": 2,
-    "IdCliente": 2,
-    "Descricao": "Envio de medicamento controlado",
-    "LocalOrigem": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
-    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
-    "driver": "Alex Rocha",
-    "Observacao": "Nova observação :D",
-    "StatusCorrida": "Concluida",
-    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
-    "DtFinalCorrida": "",
-    "IdMotorista": 3,
-    "ValorCorrida": 7.54
-  },
-  {
-    "id": 3,
-    "IdCliente": 1,
-    "Descricao": "Envio de Playstation 4",
-    "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
-    "LocalDestino": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
-    "driver": "José Motta",
-    "Observacao": "Nova observação :D",
-    "StatusCorrida": "Concluida",
-    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
-    "DtFinalCorrida": "",
-    "IdMotorista": 2,
-    "ValorCorrida": 25.57
-  },
-  {
-    "id": 4,
-    "IdCliente": 2,
-    "Descricao": "Malote direto",
-    "LocalOrigem": "Rua Duarte Guimarães - Vila Carol",
-    "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
-    "driver": "Rafael Lousada",    
-    "Observacao": "Nova observação :D",
-    "StatusCorrida": "Concluida",
-    "DtInicioCorrida": "2020-03-01 10:20:53.123432", 
-    "DtFinalCorrida": "",
-    "IdMotorista": 2,
-    "ValorCorrida": 15.22
-  }
+    {
+      "id": 1,
+      "IdCliente": 1,
+      "Descricao": "Envio de documentos",
+      "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
+      "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+      "driver": "Tais Rocha",
+      "Observacao": "Nova observação :D",
+      "StatusCorrida": "Concluida",
+      "DtInicioCorrida": "2020-03-01 10:20:53.123432",
+      "DtFinalCorrida": "",
+      "IdMotorista": 1,
+      "ValorCorrida": 17.57
+    },
+    {
+      "id": 2,
+      "IdCliente": 2,
+      "Descricao": "Envio de medicamento controlado",
+      "LocalOrigem": "Rua Pedro Antonio Fernandes, 236 - Jardim Santa Esmeralda",
+      "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+      "driver": "Alex Rocha",
+      "Observacao": "Nova observação :D",
+      "StatusCorrida": "Concluida",
+      "DtInicioCorrida": "2020-03-01 10:20:53.123432",
+      "DtFinalCorrida": "",
+      "IdMotorista": 3,
+      "ValorCorrida": 7.54
+    },
+    {
+      "id": 3,
+      "IdCliente": 1,
+      "Descricao": "Envio de Playstation 4",
+      "LocalOrigem": "Rua José Lungwitz, 26 - Jardim Ipanema",
+      "LocalDestino": "Rua Deodário Alves da Silva, 82 - Parque das Paineiras",
+      "driver": "José Motta",
+      "Observacao": "Nova observação :D",
+      "StatusCorrida": "Concluida",
+      "DtInicioCorrida": "2020-03-01 10:20:53.123432",
+      "DtFinalCorrida": "",
+      "IdMotorista": 2,
+      "ValorCorrida": 25.57
+    },
+    {
+      "id": 4,
+      "IdCliente": 2,
+      "Descricao": "Malote direto",
+      "LocalOrigem": "Rua Duarte Guimarães - Vila Carol",
+      "LocalDestino": "Rua Francisco Henrique da Rosa, 82 - Parque das Paineiras",
+      "driver": "Rafael Lousada",
+      "Observacao": "Nova observação :D",
+      "StatusCorrida": "Concluida",
+      "DtInicioCorrida": "2020-03-01 10:20:53.123432",
+      "DtFinalCorrida": "",
+      "IdMotorista": 2,
+      "ValorCorrida": 15.22
+    }
   ],
   "Motorista": [
-  	{
+    {
       "Nome": "Joselito",
       "Email": "Joselito@Jose.com.br",
-      "IdProfile" : 2, 
+      "IdProfile": 2,
       "Cidade": "Sorocaba",
       "Senha": "123",
       "Endereco": "Antonio Jose Castronovo",
@@ -96,7 +96,7 @@
       "Telefone": "3232-5889",
       "Cep": "18095-070",
       "DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-",
-      "Cnh" : 666555444,
+      "Cnh": 666555444,
       "type": 2,
       "Veiculos": [
         {
@@ -107,137 +107,135 @@
           "Renavan": "Renavan-112233",
           "IdUsuario": 2,
           "CargaMaximaKg": 19
-		    }
-	    ]
+        }
+      ]
     }
   ],
-  "Clientes":[
+  "Clientes": [
     {
-    "Nome": "Joselito",
-		"Email": "Joselito@Jose.com.br",
-		"IdProfile" : 1,
-		"Cidade": "Sorocaba",
-		"Senha": "123",
-		"Endereco": "Antonio Jose Castronovo",
-		"NumeroResidencia": "123-abc",
-		"Bairro": "Santa Rosalia",
-		"Telefone": "3232-5889",
-		"Cep": "18095-070",
-		"DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-"
-,      "type": 2
+      "Nome": "Joselito",
+      "Email": "Joselito@Jose.com.br",
+      "IdProfile": 1,
+      "Cidade": "Sorocaba",
+      "Senha": "123",
+      "Endereco": "Antonio Jose Castronovo",
+      "NumeroResidencia": "123-abc",
+      "Bairro": "Santa Rosalia",
+      "Telefone": "3232-5889",
+      "Cep": "18095-070",
+      "DeviceToken": "eHfxDeGbMhA:APA91bG_X05gYxRu4Rpde4g5QfDbluHthNyH-599rZFcR0XoI5QwxyykO98saMfdNGiJXQxkhsZxhC0jjISIj67lQ15S4PPMWU8sgws3EOH8Y4cy_7aZrQQnQEFbeE_0L5rd9X48MUW-",
+      "type": 2
     }
   ],
-	"Advertisement": [
-		{
-		"Id": 732846,
-    		"InsertDate": "2012-06-23T00:00:00",
-    		"Email": "dinho@gmail.com",
-    		"Car": "Brasília",
-    		"ModelYear": 1960,
-    		"Km": 235490,
-    		"Price": 19000.00,
-    		"Modalidade": "Amarela",
-    		"UF": "SP",
-    		"Suspects": 0,
-    		"Payday": "2013-08-25T07:48:29.027"
-    		},
-    		{
-		"Id": 986537,
-    		"InsertDate": "2012-06-23T00:00:00",
-    		"Email": "benjorge@gmail.com",
-    		"Car": "Corsa",
-    		"ModelYear": 2008,
-    		"Km": 135490,
-    		"Price": 19000.00,
-    		"Modalidade": "Premium - Carro",
-    		"UF": "RJ",
-    		"Suspects": 2,
-    		"Payday": "2013-08-25T07:48:29.027"
-    		},
-    		{
-		"Id": 837242,
-    		"InsertDate": "2014-06-23T00:00:00",
-    		"Email": "ruso.renato@gmail.com",
-    		"Car": "Veraneio",
-    		"ModelYear": 1973,
-    		"Km": 235490,
-    		"Price": 19000.00,
-    		"Modalidade": "Vascaina",
-    		"UF": "DF",
-    		"Suspects": 4,
-    		"Payday": "2013-08-25T07:48:29.027"
-    		},
-    		{
-		"Id": 910829,
-    		"InsertDate": "2012-06-23T00:00:00",
-    		"Email": "dinho@gmail.com",
-    		"Car": "Brasília",
-    		"ModelYear": 1960,
-    		"Km": 235490,
-    		"Price": 19000.00,
-    		"Modalidade": "Amarela",
-    		"UF": "SP",
-    		"Suspects": 0,
-    		"Payday": "2013-08-25T07:48:29.027"
-    		}
-	],
-	
-	"Sales": [
-			{
-				"Status": "P",
-				"ProductTL": "2ª Prioridade",
-				"ProductName": "Plus - Carro",
-				"VersionIdentification": "1",
-				"Id": "6032899",
-				"SaleDate": "2018-10-30T00:00:00",
-				"TotalPrice": "149.90",
-				"StatusPay": "E",
-				"OriginSale": "P"
-			},
-			{
-				"Status": "P",
-				"ProductTL": "1ª Prioridade.",
-				"ProductName": "Premium - Carro",
-				"VersionIdentification": "4",
-				"Id": "6032901",
-				"SaleDate": "2018-11-01T00:00:00",
-				"TotalPrice": "249.90",
-				"StatusPay": "E",
-				"OriginSale": "N"
-			},
-			{
-				"Status": "P",
-				"ProductTL": "1ª Prioridade.",
-				"ProductName": "Premium - Carro",
-				"VersionIdentification": "4",
-				"Id": "6032915",
-				"SaleDate": "2018-11-12T00:00:00",
-				"TotalPrice": "249.90",
-				"StatusPay": "E",
-				"OriginSale": "N"
-			},
-			{
-				"Status": "P",
-				"ProductTL": "1ª Prioridade.",
-				"ProductName": "Premium - Carro",
-				"VersionIdentification": "4",
-				"Id": "6032917",
-				"SaleDate": "2018-11-12T00:00:00",
-				"TotalPrice": "249.90",
-				"StatusPay": "E",
-				"OriginSale": "N"
-			},
-			{
-				"Status": "P",
-				"ProductTL": "1ª Prioridade.",
-				"ProductName": "Premium - Carro",
-				"VersionIdentification": "4",
-				"Id": "6032919",
-				"SaleDate": "2018-11-12T00:00:00",
-				"TotalPrice": "249.90",
-				"StatusPay": "E",
-				"OriginSale": "N"
-			}
-		]
-	
+  "Advertisement": [
+    {
+      "Id": 732846,
+      "InsertDate": "2012-06-23T00:00:00",
+      "Email": "dinho@gmail.com",
+      "Car": "Brasília",
+      "ModelYear": 1960,
+      "Km": 235490,
+      "Price": 19000,
+      "Modalidade": "Amarela",
+      "UF": "SP",
+      "Suspects": 0,
+      "Payday": "2013-08-25T07:48:29.027"
+    },
+    {
+      "Id": 986537,
+      "InsertDate": "2012-06-23T00:00:00",
+      "Email": "benjorge@gmail.com",
+      "Car": "Corsa",
+      "ModelYear": 2008,
+      "Km": 135490,
+      "Price": 19000,
+      "Modalidade": "Premium - Carro",
+      "UF": "RJ",
+      "Suspects": 2,
+      "Payday": "2013-08-25T07:48:29.027"
+    },
+    {
+      "Id": 837242,
+      "InsertDate": "2014-06-23T00:00:00",
+      "Email": "ruso.renato@gmail.com",
+      "Car": "Veraneio",
+      "ModelYear": 1973,
+      "Km": 235490,
+      "Price": 19000,
+      "Modalidade": "Vascaina",
+      "UF": "DF",
+      "Suspects": 4,
+      "Payday": "2013-08-25T07:48:29.027"
+    },
+    {
+      "Id": 910829,
+      "InsertDate": "2012-06-23T00:00:00",
+      "Email": "dinho@gmail.com",
+      "Car": "Brasília",
+      "ModelYear": 1960,
+      "Km": 235490,
+      "Price": 19000,
+      "Modalidade": "Amarela",
+      "UF": "SP",
+      "Suspects": 0,
+      "Payday": "2013-08-25T07:48:29.027"
+    }
+  ],
+  "Sales": [
+    {
+      "Status": "P",
+      "ProductTL": "2ª Prioridade",
+      "ProductName": "Plus - Carro",
+      "VersionIdentification": "1",
+      "Id": "6032899",
+      "SaleDate": "2018-10-30T00:00:00",
+      "TotalPrice": "149.90",
+      "StatusPay": "E",
+      "OriginSale": "P"
+    },
+    {
+      "Status": "P",
+      "ProductTL": "1ª Prioridade.",
+      "ProductName": "Premium - Carro",
+      "VersionIdentification": "4",
+      "Id": "6032901",
+      "SaleDate": "2018-11-01T00:00:00",
+      "TotalPrice": "249.90",
+      "StatusPay": "E",
+      "OriginSale": "N"
+    },
+    {
+      "Status": "P",
+      "ProductTL": "1ª Prioridade.",
+      "ProductName": "Premium - Carro",
+      "VersionIdentification": "4",
+      "Id": "6032915",
+      "SaleDate": "2018-11-12T00:00:00",
+      "TotalPrice": "249.90",
+      "StatusPay": "E",
+      "OriginSale": "N"
+    },
+    {
+      "Status": "P",
+      "ProductTL": "1ª Prioridade.",
+      "ProductName": "Premium - Carro",
+      "VersionIdentification": "4",
+      "Id": "6032917",
+      "SaleDate": "2018-11-12T00:00:00",
+      "TotalPrice": "249.90",
+      "StatusPay": "E",
+      "OriginSale": "N"
+    },
+    {
+      "Status": "P",
+      "ProductTL": "1ª Prioridade.",
+      "ProductName": "Premium - Carro",
+      "VersionIdentification": "4",
+      "Id": "6032919",
+      "SaleDate": "2018-11-12T00:00:00",
+      "TotalPrice": "249.90",
+      "StatusPay": "E",
+      "OriginSale": "N"
+    }
+  ]
 }
