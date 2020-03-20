@@ -180,5 +180,119 @@
     		"Suspects": 0,
     		"Payday": "2013-08-25T07:48:29.027"
     		}
-	]
+	],
+	
+	"Sales": [
+			{
+				"Status": "P",
+				"ProductTL": "2ª Prioridade",
+				"ProductName": "Plus - Carro",
+				"VersionIdentification": "1",
+				"Id": "6032897",
+				"SaleDate": "2018-10-30T00:00:00",
+				"TotalPrice": "149.90",
+				"StatusPay": "E",
+				"OriginSale": "P"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "2ª Prioridade",
+				"ProductName": "Plus - Carro",
+				"VersionIdentification": "1",
+				"Id": "6032899",
+				"SaleDate": "2018-10-30T00:00:00",
+				"TotalPrice": "149.90",
+				"StatusPay": "E",
+				"OriginSale": "P"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032901",
+				"SaleDate": "2018-11-01T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032907",
+				"SaleDate": "2018-11-09T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032909",
+				"SaleDate": "2018-11-09T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032911",
+				"SaleDate": "2018-11-09T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032913",
+				"SaleDate": "2018-11-09T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032915",
+				"SaleDate": "2018-11-12T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032917",
+				"SaleDate": "2018-11-12T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			},
+			{
+				"Status": "P",
+				"ProductTL": "1ª Prioridade.",
+				"ProductName": "Premium - Carro",
+				"VersionIdentification": "4",
+				"Id": "6032919",
+				"SaleDate": "2018-11-12T00:00:00",
+				"TotalPrice": "249.90",
+				"StatusPay": "E",
+				"OriginSale": "N"
+			}
+		]
+	
 }
