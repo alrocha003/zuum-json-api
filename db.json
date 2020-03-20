@@ -225,17 +225,6 @@
       "TotalPrice": "249.90",
       "StatusPay": "E",
       "OriginSale": "N"
-    },
-    {
-      "Status": "P",
-      "ProductTL": "1ª Prioridade.",
-      "ProductName": "Premium - Carro",
-      "VersionIdentification": "4",
-      "Id": "6032919",
-      "SaleDate": "2018-11-12T00:00:00",
-      "TotalPrice": "249.90",
-      "StatusPay": "E",
-      "OriginSale": "N"
     }
   ]
 }
