@@ -167,6 +167,7 @@
   ],
   "Sales": [
     {
+                  "IdAds": 986537,
       "Status": "P",
       "ProductTL": "2ª Prioridade",
       "ProductName": "Plus - Carro",
@@ -177,36 +178,52 @@
       "StatusPay": "E",
       "OriginSale": "P"
     },
+    
     {
+            "IdAds": 986537,
       "Status": "P",
-      "ProductTL": "1ª Prioridade.",
-      "ProductName": "Premium - Carro",
+      "ProductTL": "3ª Prioridade. - Roard",
+      "ProductName": "Normal - Carro do ovo",
       "VersionIdentification": "4",
       "Id": "6032901",
       "SaleDate": "2018-11-01T00:00:00",
-      "TotalPrice": "249.90",
+      "TotalPrice": "759.90",
       "StatusPay": "E",
       "OriginSale": "N"
     },
     {
+            "IdAds": 986537,
       "Status": "P",
-      "ProductTL": "1ª Prioridade.",
+      "ProductTL": "1ª Prioridade. - Jroge",
+      "ProductName": "Premium - Carro de Luxo",
+      "VersionIdentification": "4",
+      "Id": "6032901",
+      "SaleDate": "2018-11-01T00:00:00",
+      "TotalPrice": "1249.90",
+      "StatusPay": "E",
+      "OriginSale": "N"
+    },
+    {
+      "IdAds": 732846,
+      "Status": "P",
+      "ProductTL": "1ª Prioridade. -  Novo",
       "ProductName": "Premium - Carro",
       "VersionIdentification": "4",
       "Id": "6032915",
       "SaleDate": "2018-11-12T00:00:00",
-      "TotalPrice": "249.90",
+      "TotalPrice": "490.90",
       "StatusPay": "E",
       "OriginSale": "N"
     },
     {
+      "IdAds": 732846,
       "Status": "P",
-      "ProductTL": "1ª Prioridade.",
-      "ProductName": "Premium - Carro",
+      "ProductTL": "1ª Prioridade. Antigo",
+      "ProductName": "Premium - Moto",
       "VersionIdentification": "4",
       "Id": "6032917",
       "SaleDate": "2018-11-12T00:00:00",
-      "TotalPrice": "249.90",
+      "TotalPrice": "139.90",
       "StatusPay": "E",
       "OriginSale": "N"
     }
