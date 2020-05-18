@@ -123,7 +123,8 @@
       "Modalidade": "Amarela",
       "UF": "SP",
       "Suspects": 0,
-      "Payday": "2013-08-25T07:48:29.027"
+      "Payday": "2013-08-25T07:48:29.027",
+      "IdPf": 49
     },
     {
       "Id": 986537,
@@ -136,7 +137,8 @@
       "Modalidade": "Premium - Carro",
       "UF": "RJ",
       "Suspects": 2,
-      "Payday": "2013-08-25T07:48:29.027"
+      "Payday": "2013-08-25T07:48:29.027",
+      "IdPf": 49
     },
     {
       "Id": 837242,
@@ -149,7 +151,8 @@
       "Modalidade": "Vascaina",
       "UF": "DF",
       "Suspects": 4,
-      "Payday": "2013-08-25T07:48:29.027"
+      "Payday": "2013-08-25T07:48:29.027",
+      "IdPf": 49
     },
     {
       "Id": 910829,
@@ -162,7 +165,8 @@
       "Modalidade": "Amarela",
       "UF": "SP",
       "Suspects": 0,
-      "Payday": "2013-08-25T07:48:29.027"
+      "Payday": "2013-08-25T07:48:29.027",
+      "IdPf": 49
     }
   ],
   "Sales": [
